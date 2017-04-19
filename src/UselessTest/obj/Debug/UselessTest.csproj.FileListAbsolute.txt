@@ -1,0 +1,9 @@
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\src\bin\UselessTest.exe.config
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\src\bin\UselessTest.exe
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\src\bin\UselessTest.pdb
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\UselessTest.exe.config
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\bin\UselessTest.dll.config
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\bin\UselessTest.dll
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\bin\UselessTest.pdb
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\src\UselessTest\obj\Debug\UselessTest.dll
+C:\Users\Grushman\Documents\Visual Studio 2013\Projects\UselessTest\src\UselessTest\obj\Debug\UselessTest.pdb
